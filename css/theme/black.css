@@ -236,6 +236,9 @@ body {
 
 .reveal section .history-container.orga {
   position: absolute;}
+
+.reveal section .history-container.orga.minz {
+  top: 0; right:0;}
 .reveal section .history-container.orga.orga_1 {
   background: #191919;}
 
