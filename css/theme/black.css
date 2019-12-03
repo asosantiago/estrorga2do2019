@@ -241,7 +241,10 @@ body {
   top: 0; right:0;}
 .reveal section .history-container.orga.orga_1 {
   background: #191919;}
-
+  
+.show_white {
+  display: none;
+}
 .reveal section .history-container img.history {
  margin: 15px 0px;
  background: none;

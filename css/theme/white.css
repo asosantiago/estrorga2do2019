@@ -241,8 +241,17 @@ body {
   top: 0; right:0;}
 .reveal section .history-container.orga.orga_1 {
   background: #fff;}
+  .show_black {
+    display: none;
+  }
 
 .reveal section .history-container img.history {
+ margin: 15px 0px;
+ background: none;
+ border: none;
+ box-shadow: none;}
+
+.reveal section .history-container video.history {
   margin: 15px 0px;
   background: none;
   border: none;
